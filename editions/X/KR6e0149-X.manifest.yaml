@@ -1,0 +1,168 @@
+canonical_identifier: bkk:krp/KR6e0149/X/v1
+canonical_location: https://kanripo.org/bkk/KR6e0149/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴經海印道場九會請佛儀
+  identifiers:
+    krp: KR6e0149
+    cbeta: X74n1469
+    cbeta_old_id: X74n1469
+    authorityid: CA0001382
+    json_key: X1469
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1469.xml
+    old_id: X74n1469
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0149_000-X.yaml, hash: 'sha256:782b9fb7741ae38f32a808ef75d99de2f43bc8eb33385e2df32bfb2112a0a042'}
+  - {seq: 1, filename: KR6e0149_001-X.yaml, hash: 'sha256:3288f6a19c21c94acf774c0669295e2d34b88b70ce4d6f5c48215830bccaf54f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0149_000-X.markers.yaml, hash: 'sha256:73b9cf2953c8839fbeee023cc4e1fb5055f66693325b876cabea34b08790d0cd'}
+  - {seq: 1, role: markers, filename: assets/KR6e0149_001-X.markers.yaml, hash: 'sha256:48e6d8a644c12aba8fc0c634cdd055cc25d8847cbbf33716d242d9b7b36522f4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6e0149_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1469-A 華嚴懺法序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6e0149_X_000-mulu-2
+    span:
+    - front
+    - 770
+    - 770
+  label: No. 1469-B 華嚴經海印道場懺儀敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6e0149_X_000-mulu-3
+    span:
+    - front
+    - 1630
+    - 1630
+  label: No. 1469-C 華嚴海印道場懺儀題辭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0149_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3880
+  label: 華嚴海印道場九會請佛儀
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0149_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0149_X_001-mulu-2
+    span:
+    - body
+    - 223
+    - 223
+  label: 1 第一會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0149_X_001-mulu-3
+    span:
+    - body
+    - 913
+    - 913
+  label: 2 第二會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0149_X_001-mulu-4
+    span:
+    - body
+    - 1148
+    - 1148
+  label: 3 第三會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0149_X_001-mulu-5
+    span:
+    - body
+    - 1509
+    - 1509
+  label: 4 第四會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0149_X_001-mulu-6
+    span:
+    - body
+    - 1844
+    - 1844
+  label: 5 第五會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0149_X_001-mulu-7
+    span:
+    - body
+    - 2187
+    - 2187
+  label: 6 第六會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0149_X_001-mulu-8
+    span:
+    - body
+    - 2491
+    - 2491
+  label: 7 第七會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0149_X_001-mulu-9
+    span:
+    - body
+    - 2920
+    - 2920
+  label: 8 第八會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0149_X_001-mulu-10
+    span:
+    - body
+    - 3114
+    - 3114
+  label: 9 第九會
+  type: mulu
+  level: 1
+hash: sha256:5406cf503ab636e7e22c0286de23f25b93a2124dbc8f517b143457948ced20f2
