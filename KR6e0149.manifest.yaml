@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6e0149_000.yaml, hash: 'sha256:0e8f53b7ddefe3ac64ff1f162188354624cf4ffa3d9e4e9e3ced91717ea0b998'}
+  - {seq: 0, filename: KR6e0149_000.yaml, hash: 'sha256:ac356f38f3a8ab5a3b40177f97d78f38080917292dec5771c49ee99850caa8f6'}
   - {seq: 1, filename: KR6e0149_001.yaml, hash: 'sha256:a150028dd7e7a935e6d8d41de5711eaf40e8a0c290170c0ac1627cb25f879a42'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0149_000.markers.yaml, hash: 'sha256:478e4c1d4246bfab414ba12a7c5e6d4a2a19f5542fb4ed9eee1f1541d60ae3bc'}
+  - {seq: 0, role: markers, filename: assets/KR6e0149_000.markers.yaml, hash: 'sha256:96c16e3282e822a77461165cd32b288a09d7e5162387257cae4d9e9864a1521b'}
   - {seq: 1, role: markers, filename: assets/KR6e0149_001.markers.yaml, hash: 'sha256:5f23b7434740892be936b4d4dc6b075f93bcd56288ae0e31a4c1aefb2a070a21'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6e0149_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1469-A 華嚴懺法序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0149_X_000-mulu-2
     span:
-    - front
+    - body
     - 770
     - 770
   label: No. 1469-B 華嚴經海印道場懺儀敘
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0149_X_000-mulu-3
     span:
-    - front
+    - body
     - 1630
     - 1630
   label: No. 1469-C 華嚴海印道場懺儀題辭
@@ -167,7 +167,7 @@ table_of_contents:
   label: 9 第九會
   type: mulu
   level: 1
-hash: sha256:2a2824fee55fb51c4d797930486846367e906c00430d52212bac851a4e4c817b
+hash: sha256:2650d92da18ff0c3d548900115a26ce2b3cee318fe482fc52e6151a654fcd3d5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
